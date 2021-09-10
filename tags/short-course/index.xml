@@ -6,20 +6,15 @@
     <description>Recent content in Short Course on NCEAS Training Materials Catalog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 May 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/short-course/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 25 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/short-course/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reproducible Research Techniques for Synthesis (July 2021)</title>
       <link>/events/2021_07_nceas/</link>
       <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
       
       <guid>/events/2021_07_nceas/</guid>
-      <description>Dates: July 8-9, 12-14, 2021
-Location: Remote
-This 5-day workshop will provide researchers with an overview of best data management practices, data science tools, and concrete steps and methods for more easily producing transparent, reproducible workflows. This opportunity is for researchers from across career stages and sectors who want to gain fundamental data science skills that will improve their reproducible research techniques, particularly for the purposes of synthesis science.</description>
+      <description>Dates: July 8-9, 12-14, 2021Location: RemoteThis 5-day workshop will provide researchers with an overview of best data management practices, data science tools, and concrete steps and methods for more easily producing transparent, reproducible workflows. This opportunity is for researchers from across career stages and sectors who want to gain fundamental data science skills that will improve their reproducible research techniques, particularly for the purposes of synthesis science.
+Curriculum at a glance: Enable data reuse through better data management  Metadata - what is it and how to write a quality data description Data modeling - tidy data for efficient access and storage Data publishing, citation, and credit  Build reproducible scientific workflows  Data munging with R tidyverse Working collaboratively - git and GitHub Writing functions in R Building packages for publishing reproducible research  Communicate results effectively  Literate analysis with RMarkdown Publishing analytical web pages with GitHub pages Data visualization with ggplot and leaflet  For more detailed information on how to prepare for the workshop, see preparing for the workshop (below).</description>
     </item>
     
     <item>
@@ -28,9 +23,8 @@ This 5-day workshop will provide researchers with an overview of best data manag
       <pubDate>Fri, 05 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>/events/2021_02_nceas/</guid>
-      <description>Dates: February 25-26, March 1-3, 2021
-Location: Remote
-This 5-day workshop will provide researchers with an overview of best data management practices, data science tools, and concrete steps and methods for more easily producing transparent, reproducible workflows. This opportunity is for researchers from across career stages and sectors who want to gain fundamental data science skills that will improve their reproducible research techniques, particularly for the purposes of synthesis science.</description>
+      <description>Dates: February 25-26, March 1-3, 2021Location: RemoteThis 5-day workshop will provide researchers with an overview of best data management practices, data science tools, and concrete steps and methods for more easily producing transparent, reproducible workflows. This opportunity is for researchers from across career stages and sectors who want to gain fundamental data science skills that will improve their reproducible research techniques, particularly for the purposes of synthesis science.
+Curriculum at a glance: Enable data reuse through better data management  Metadata - what is it and how to write a quality data description Data modeling - tidy data for efficient access and storage Data publishing, citation, and credit  Build reproducible scientific workflows  Data munging with R tidyverse Working collaboratively - git and GitHub Writing functions in R Building packages for publishing reproducible research  Communicate results effectively  Literate analysis with RMarkdown Publishing analytical web pages with GitHub pages Data visualization with ggplot and leaflet  For more detailed information on how to prepare for the workshop, see preparing for the workshop (below).</description>
     </item>
     
     <item>
@@ -39,9 +33,8 @@ This 5-day workshop will provide researchers with an overview of best data manag
       <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>/events/2020_11_nceas/</guid>
-      <description>Dates: November 12 - November 18, 2020
-Location: Remote
-This 5-day workshop will provide researchers with an overview of best data management practices, data science tools, and concrete steps and methods for more easily producing transparent, reproducible workflows. This opportunity is for researchers from across career stages and sectors who want to gain fundamental data science skills that will improve their reproducible research techniques, particularly for the purposes of synthesis science.</description>
+      <description>Dates: November 12 - November 18, 2020Location: RemoteThis 5-day workshop will provide researchers with an overview of best data management practices, data science tools, and concrete steps and methods for more easily producing transparent, reproducible workflows. This opportunity is for researchers from across career stages and sectors who want to gain fundamental data science skills that will improve their reproducible research techniques, particularly for the purposes of synthesis science.
+Curriculum at a glance: Enable data reuse through better data management  Metadata - what is it and how to write a quality data description Data modeling - tidy data for efficient access and storage Data publishing, citation, and credit  Build reproducible scientific workflows  Data munging with R tidyverse Working collaboratively - git and GitHub Writing functions in R Building packages for publishing reproducible research  Communicate results effectively  Literate analysis with RMarkdown Publishing analytical web pages with GitHub pages Data visualization with ggplot and leaflet  For more detailed information on how to prepare for the workshop, see preparing for the workshop (below).</description>
     </item>
     
     <item>
@@ -50,9 +43,7 @@ This 5-day workshop will provide researchers with an overview of best data manag
       <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>/events/2020_02_nceas/</guid>
-      <description>Dates: February 3 - February 7, 2020
-Location: Santa Barbara, CA
-Venue: NCEAS, 735 State St., Suite 300, UC Santa Barbara This 5-day workshop will provide researchers with an overview of best data management practices, data science tools, and concrete steps and methods for more easily producing transparent, reproducible workflows. This opportunity is for researchers from across career stages and sectors who want to gain fundamental data science skills that will improve their reproducible research techniques, particularly for the purposes of synthesis science.</description>
+      <description>Dates: February 3 - February 7, 2020Location: Santa Barbara, CAVenue: NCEAS, 735 State St., Suite 300, UC Santa Barbara This 5-day workshop will provide researchers with an overview of best data management practices, data science tools, and concrete steps and methods for more easily producing transparent, reproducible workflows. This opportunity is for researchers from across career stages and sectors who want to gain fundamental data science skills that will improve their reproducible research techniques, particularly for the purposes of synthesis science.</description>
     </item>
     
     <item>
@@ -61,9 +52,7 @@ Venue: NCEAS, 735 State St., Suite 300, UC Santa Barbara This 5-day workshop wil
       <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>/events/2019_11_nceas/</guid>
-      <description>Dates: November 4 - November 8, 2019
-Location: Santa Barbara, CA
-Venue: NCEAS, 735 State St., Suite 300, UC Santa Barbara This 5-day workshop will provide researchers with an overview of best data management practices, data science tools, and concrete steps and methods for more easily producing transparent, reproducible workflows. This opportunity is for researchers from across career stages and sectors who want to gain fundamental data science skills that will improve their reproducible research techniques, particularly for the purposes of synthesis science.</description>
+      <description>Dates: November 4 - November 8, 2019Location: Santa Barbara, CAVenue: NCEAS, 735 State St., Suite 300, UC Santa Barbara This 5-day workshop will provide researchers with an overview of best data management practices, data science tools, and concrete steps and methods for more easily producing transparent, reproducible workflows. This opportunity is for researchers from across career stages and sectors who want to gain fundamental data science skills that will improve their reproducible research techniques, particularly for the purposes of synthesis science.</description>
     </item>
     
   </channel>
